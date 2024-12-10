@@ -7,7 +7,7 @@ const char* ssid = "YOUR_WIFI_SSID";
 const char* password = "YOUR_WIFI_PASSWORD";
 
 // Server URL
-const char* serverUrl = "http://192.168.1.100:8000/output"; // Replace with your server's IP and port
+const char* serverUrl = "http://192.168.1.100:8000/output"; // Replace with server's IP and port
 
 // Initialize BLE Keyboard
 BleKeyboard bleKeyboard;
